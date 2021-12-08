@@ -1,5 +1,9 @@
 
+<<<<<<< Updated upstream
 *.bin
 *.cf
 *.bin
 src/Configuration/ParentConfigurations.bin
+=======
+src/Configuration/ParentConfigurations/ДемонстрационноеПриложение.cf
+>>>>>>> Stashed changes
