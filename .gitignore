@@ -2,3 +2,4 @@
 *.bin
 *.cf
 *.bin
+src/Configuration/ParentConfigurations.bin
